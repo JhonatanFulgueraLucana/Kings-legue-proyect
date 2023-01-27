@@ -1,3 +1,3 @@
-name = "kingsl"
-main = "src/index.js"
+name = "kingsl-api"
+main = "api/index.js"
 compatibility_date = "2023-01-27"
